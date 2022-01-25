@@ -159,13 +159,6 @@ A_{D}(t) [\%] = \left\{ \begin{array}{llc}
 \right.
 $$
 
----
-**NOTE**
-
-The periodicity of the distribution of the new tokens is monthly, but the amount of the transaction fees will be discussed in the Tundra era, see the **[roadmap](/roadmap/overview)**.
-
----
-
 ## Examples of reward calculation
 
 In the following, we report on the simulation of three scenarios. The purpose is to show the reward calculation on a clear path. In these examples we assume that we are in the first year since launch ( $t=1$ ), there are only 1,000 COUNs in the network ( $M = 1,000$ ) and the risk factor is 1 ( $r_{0,k} = 1$ ). We also consider that the distribution is 51% to landowners, 48.5% to Natu Foundation and 0.5% to the natuDAO.
