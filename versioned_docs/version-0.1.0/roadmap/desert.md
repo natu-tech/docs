@@ -15,18 +15,15 @@ The era of the Desert comes after the Tundra. Here, the team will be completely 
 
 ### Natu conservation network
 
-Now is the time to expand the Natu conservation network to more ecosystems in different countries. In the era of the Desert, our goal is to include a submarine park and a park outside of Chile.
+Now is the time to expand the Natu conservation network to more ecosystems in different countries. In the era of the Desert, our goal is to include parks outside of Chile.
 
-### Core protocol 
+### Natu core protocol
 
-In the age of the Desert, the **team will focus entirely on creating the blockchain with the features described in the NatuChain whitepaper**.
+In the era of the Desert **our goal is to implement the smart contracts for minting the conservation units and the \$NATU token in the NEAR mainnet**.
 
-### Monitoring algorithm
-
-The monitoring algorithms are a crucial part of the proposal of value of Natu. Here, **the team will create algorithms to track the conservation state of parks on the network by using machine learning**. The data will come from satellites and other monitoring devices according to the respective NIPs.
+Also we aim to integrate new parks automatically to the natuverse for increasing the scalability.
 
 ### Natuverse
 
-The Natuverse aims to be the first and largest natural park in the Web3. It is conceived as an immersive experience where the community can interact in new ways. Also, the Natuverse is a platform where the developers can create new business models and products around this open and green economy.
+In the Desert era **our goal is to launch the natuverse in the NEAR mainnet**. This must include a NFT marketplace in the first natutown, so the team will develop the functionality to make the natuverse usable.
 
-At the Desert era, **our goal is to create a demo experience with one of the parks incorporated to the network**. Also we aim to integrate new parks automatically to the rendering of the natuverse and gain more scalability.

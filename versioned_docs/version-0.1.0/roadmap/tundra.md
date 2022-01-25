@@ -24,6 +24,12 @@ We conceive NIPs as an open space in which scientists, lawyers, and developers c
 
 At the Tundra era, **our goal is to establish a clear decision-making process for creating NIPs**. Also, we intend to create the first two standards. The first to classify the risk associated with each park in the network, and the second to establish the necessary data for the construction of the metaverse.
 
-### Natu core protocol
+#### Natu core protocol
 
-In the Tundra era **our goal is to research and propose a design for NatuChain**. Here, we will focus on creating a protocol for a blockchain capable of natively scaling and supporting metaverse features. 
+In the era of the Tundra **our goal is to implement the smart contracts for minting the conservation units and the \$NATU token in the NEAR testnet**. 
+
+To achieve a correct functioning, we have to create an external API for monitoring ecosystems (according to NIPs) and integrate this with the smart contracts by using oracles in Chainlink.
+
+### Natuverse
+
+In the Tundra era **our goal is to create the first demo of the natuverse**. The demo is expected to be simple, but users will be allowed to create their avatars and walk through the first few parks. For the demo we expect to use unreal engine to have realistic renders.

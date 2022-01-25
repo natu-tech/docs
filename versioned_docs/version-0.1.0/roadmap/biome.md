@@ -9,7 +9,7 @@ keywords: [natu, biome, blockchain, metaverse, roadmap, nature, conservation]
 ![Biome era](/img/biome.png)
 
 
-The main milestone of this era is the release of the first stable version of NatuChain. After the launch, the team will focus on scaling the ecosystem by improving the SDK, adding new features, and promoting the adoption.
+The main milestone of this era is the to achieve 1,000,000 of conservation units in the conservation network. So the team will focus on scaling the ecosystem by improving the SDK, adding new features, and promoting the adoption.
 
 
 ## Biome work scope
@@ -22,9 +22,7 @@ At this point we expect to be one of the most distributed, decentralized and lar
 
 ### Core protocol
 
-From a technical point of view, the team will focus on generating a set of decentralized services that can be connected to the dApps. The idea is to have access to decentralized processing units (like GPU or TPU).
-
-In the Biome era, **our goal is to create at least one decentralized service for dApps**. Also, we aim to **implement a native payment gateway** for real-world businesses to increase adoption.
+In this era the team will focus on **incorporating new features to the metaverse**. There are two crucial aspects to have a secure and competitive metaverse. First, **we need to use decentralized identity solutions** and the team will work on provide this. Second, **we need to decentralize the hardware** so the costs decreases due to the competence and the adoption increases.
 
 ### Next roadmap
 
