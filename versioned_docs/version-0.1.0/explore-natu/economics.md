@@ -78,16 +78,16 @@ $$
  \right.
 $$
 
-Then, $n_k(t)$ represents the reward in \$NATU corresponding to the conservation of the COUN $k$ in the time $t$ (since launch),
+Then, $n_{k}(t,s)$ represents the reward in \$NATU corresponding to the conservation of the COUN $k$, in the time $t$ (since launch),
 
 $$
-n_{k}(t,m) =   c_{k} \cdot \left(  \sum_{j \in \Lambda}{c_{j}} + 1 \right) \cdot r_{k}(t,m) \ .
+n_{k}(t,s) =   c_{k}(t) \cdot \left(  \sum_{j \in \Lambda}{c_{j}(t)} + 1 \right) \cdot r_{k}(s) \ .
 $$
 
 Here $\Lambda$ is the set of neighbours COUNs, $s$ is the circulating supply of \$NATU, and $m$ is the number of COUNs in the network. Likewise, the reward factor $r(s)$ is computed as
 
 $$
-r(s,M) = 1 - \frac{s}{S} \,
+r(s) = 1 - \frac{s}{S} \,
 $$
 
 where, $S$ is the **maximum supply of 1.618 bn \$NATU** ($s \leq S$).
@@ -110,15 +110,13 @@ We get several benefits from this design. First of all, **the burning rate is de
 
 ### Token allocation
 
-The allocation of new minted \$NATUs aims to **compensate for the decrease in rewards** for those who keep their land in the network for a long period. Likewise, we seek to **ensure a predictable source of income** that allows the development of Natu in both the adoption and the technology.
+The allocation of new minted \$NATUs aims to **ensure a predictable source of income** that allows the development of Natu in both the adoption and the technology.
 
-**The income of each participant is made up of the new allocation of minted tokens plus the distribution of little transaction fees**. The token distribution varies with time according to the following figure
+**The income of each participant is made up of the new allocation of minted tokens**. The token distribution varies with time according to the following figure
 
 ![Token allocation.](/img/token-allocation.png)
 
-The distribution of new tokens aims to encourage **early adopters to move quickly to benefit from high initial rewards**. Likewise, Natu seek to the long-term commitment of the park owners, whereby **they will receive a share of the transaction fees**. So then, the park owners can benefit from additional fees if adoption increases over time. 
-
-These extra fees will compensate for the smaller rewards when the max supply of \$NATU is close to being reached. As a result, the Natu reward mechanism provide a predictable source of income for all stakeholders in the long run.
+The distribution of new tokens aims to encourage **early adopters to move quickly to benefit from high initial rewards**. Likewise, Natu seek to the long-term commitment of the park owners, whereby **they will benefit from the burning rate if adoption increases over time**.  
 
 It is possible to calculate the distribution of new minted tokens for each participant. In fact, the portion that belongs to the parkowners at time $t$ from launch 
 
@@ -161,7 +159,7 @@ $$
 
 ## Examples of reward calculation
 
-In the following, we report on the simulation of three scenarios. The purpose is to show the reward calculation on a clear path. In these examples we assume that we are in the first year since launch ( $t=1$ ), there are only 1,000 COUNs in the network ( $M = 1,000$ ) and the risk factor is 1 ( $r_{0,k} = 1$ ). We also consider that the distribution is 51% to landowners, 48.5% to Natu Foundation and 0.5% to the natuDAO.
+In the following, we report on the simulation of three scenarios. The purpose is to show the reward calculation on a clear path. In these examples we assume that we are in the first year since launch ( $t=1$ ), there are only 1,000 COUNs in the network ( $M = 1,000$ ) and the reward factor is 1 ( $r(s) = 1$ ). We also consider that the distribution is 51% to landowners, 48.5% to Natu Foundation and 0.5% to the natuDAO.
 
 Then, we analyze the **minimum viable park. It is composed of 3 contiguous COUNs and is the smallest admitted park on the network**. Here, the total reward for each period of one month is $0.394$ \$NATU, and the average reward per COUN is equal to $0.131$ \$NATU.
 
@@ -177,12 +175,10 @@ We observe that **the average reward per COUN increases by $83\%$ when conservin
 
 ## What happens when the maximum supply is reached?
 
-It is important to ensure the continuity of the conservation network once the maximum supply of tokens is reached. To address this issue, **we propose to fund a treasure by charging a small transaction fee**. 
-
-The amount of the transaction fees and its distribution will be discussed in later eras, see the **[roadmap](/roadmap/overview)**.
+It is important to ensure the continuity of the conservation network once the maximum supply of tokens is reached. The burn rate have the function of burning tokens if adoption increases, so if the circulating supply is less than the maximum there are available tokens to be minted. In other words, **if the adoption increases there are more rewards for park owners in the future.**
 
 ## Conclusion
 
-The design of the tokenomics creates an extra incentive for early adopters as they can benefit from higher initial rewards. Also, we ensure the sustainability of the conservation network by incorporating a small transaction fees.
+The design of the tokenomics creates an extra incentive for early adopters as they can benefit from higher initial rewards. Also, we ensure the sustainability of the conservation network by incorporating a burn rate in the form of a little transaction fee.
 
 At the same time, the **token allocation for \$NATU provides predictable income for all stakeholders**. This allows for the continuous development of Natu.
