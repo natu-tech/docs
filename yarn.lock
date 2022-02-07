@@ -2063,6 +2063,7 @@ __metadata:
     resolve-pathname: ^3.0.0
     tslib: ^2.3.1
     url-loader: ^4.1.1
+    remark-math: ^5.1.1
   peerDependencies:
     react: "*"
     react-dom: "*"
