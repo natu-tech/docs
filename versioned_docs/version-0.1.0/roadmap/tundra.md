@@ -8,7 +8,7 @@ keywords: [natu, tundra, blockchain, metaverse, roadmap, nature, conservation]
 
 ![Tundra era](/img/tundra.png)
 
-The first era **is entirely to establish the foundations of Natu**. So the research and development will be focused in preparing Natu for the future stages. We also will create the Natu conservation network by joining the first parks in Chile.
+The first era **is entirely to establish the foundations of Natu**. Therefore, the research and development will focus on preparing Natu for the future stages. This includes the creation of the Natu conservation network by joining the first parks in Chile. The team also will work on the creation of the smart contracts.
 
 ## Tundra work scope
 
@@ -22,14 +22,14 @@ The Natu Improvement Proposals (NIPs) describe the standards for Natu, including
 
 We conceive NIPs as an open space in which scientists, lawyers, and developers can collaborate in order to provide high quality standards for the project.
 
-At the Tundra era, **our goal is to establish a clear decision-making process for creating NIPs**. Also, we intend to create the first two standards. The first to classify the risk associated with each park in the network, and the second to establish the necessary data for the construction of the metaverse.
+At the Tundra era, **our goal is to establish a clear decision-making process for creating NIPs**. Also, we intend to create the first standards.
 
-#### Natu core protocol
+### Natu core protocol
 
-In the era of the Tundra **our goal is to implement the smart contracts for minting the conservation units and the \$NATU token in the NEAR testnet**. 
+In the Tundra era **our goal is to implement the smart contracts for minting the conservation units and the \$NATU token in the NEAR blockchain**. The team will also work on the development of the monitoring protocol, which involves the creation of an API connected to the blockchain through an oracle in Chainlink.
 
-To achieve a correct functioning, we have to create an external API for monitoring ecosystems (according to NIPs) and integrate this with the smart contracts by using oracles in Chainlink.
+### Adoption strategy
 
-### Natuverse
+**We will create our crypto 101 course** to introduce the world of cryptocurrencies to the community. The course will have two versions, one for potential users and one for park owners.
 
-In the Tundra era **our goal is to create the first demo of the natuverse**. The demo is expected to be simple, but users will be allowed to create their avatars and walk through the first few parks. For the demo we expect to use unreal engine to have realistic renders.
+We will also initiate a social media strategy for brand positioning on twitter, linkedin and instagram.

@@ -9,7 +9,7 @@ keywords: [natu, desert, blockchain, metaverse, roadmap, nature, conservation]
 
 ![Desert era](/img/desert.png)
 
-The era of the Desert comes after the Tundra. Here, the team will be completely focussed to the development of NatuChain and the monitoring algorithm. 
+The Desert era comes after the Tundra. Here, the team will focus on the development of decentralized green loans, which is the first use case for $NATU.
 
 ## Desert work scope
 
@@ -17,13 +17,12 @@ The era of the Desert comes after the Tundra. Here, the team will be completely 
 
 Now is the time to expand the Natu conservation network to more ecosystems in different countries. In the era of the Desert, our goal is to include parks outside of Chile.
 
-### Natu core protocol
+### Decentralized green loans
 
-In the era of the Desert **our goal is to implement the smart contracts for minting the conservation units and the \$NATU token in the NEAR mainnet**.
+In the Desert era, **our goal is to design and implement an automated lending protocol to enable decentralized green loans**. DG Loans are expected to be an instrument for ESG investments in the future.
 
-Also we aim to integrate new parks automatically to the natuverse for increasing the scalability.
+### Adoption strategy
 
-### Natuverse
+**We will create our conservation 101 course** to promote good nature conservation practices among the community. The course will have two versions, one for potential users and one for park owners.
 
-In the Desert era **our goal is to launch the natuverse in the NEAR mainnet**. This must include a NFT marketplace in the first natutown, so the team will develop the functionality to make the natuverse usable.
-
+We will also continue to position the brand among the community, but now focusing on a broader Latin American audience.
