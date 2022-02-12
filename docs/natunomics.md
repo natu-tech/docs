@@ -97,54 +97,15 @@ where $r(t) = 0.01$ is the reward factor corresponding to the 1% of the maximum 
 
 ### Token allocation
 
-The allocation of new minted \$NATUs aims to **ensure a predictable source of income** that allows the development of Natu in both the adoption and the technology. The token distribution varies with time according to the following figure.
+The allocation of new minted \$NATUs aims to **ensure a predictable source of income** that allows the development of Natu in both the adoption and the technology. 
 
-![Token allocation.](/img/token-allocation.png)
-
-From here, it is possible to calculate the portion that belongs to the park owners at time $t$ as 
-
-$$
-\sigma_{P}(t) [\%] = \left\{ \begin{array}{llc}
-
-50 + t & \text{if } & t \leq 10\\
-
-60 & \text{if} & t > 10
-
-\end{array}
-\right.
-$$
-
-For its part, the portion of new minted tokens belonging to the Natu Foundation is 
-
-$$
-\sigma_{N}(t) [\%] = \left\{ \begin{array}{llc}
-
-- 1.5 \cdot t  + 50 & \text{if } & t \leq 10\\
-
-35 & \text{if} & t > 10
-
-\end{array}
-\right.
-$$
-
-Likewise, the natuDAO receives a part of the new emission according to:
-
-$$
-\sigma_{D}(t) [\%] = \left\{ \begin{array}{llc}
-
-0.5 \cdot t & \text{if } & t \leq 10 \\
-
-5 & \text{if} & t > 10
-
-\end{array}
-\right.
-$$
+The new minted tokens are distributed among the park owners (60%), the Natu Foundation (30%), and the natuDAO (10%). 
 
 ## Examples
 
-In the following, we report on the simulation of three scenarios. The purpose is to show the reward calculation on a clear path. In these examples we assume that we are in the first year since launch ( $t=1$, $r_{k}(t) = 1$ ), there are 10,000 COUNs in the network ( $M = 10,000$ ) and the total score is 90,000 ($\Mu = 90,000$). We also consider that the reward distribution is 51% to landowners, 48.5% to Natu Foundation and 0.5% to the natuDAO.
+In the following, we report on the simulation of three scenarios. The purpose is to show the reward calculation on a clear path. In these examples we assume that we are in the first year since launch ( $t=1$, $r_{k}(t) = 1$ ), there are 10,000 COUNs in the network ( $M = 10,000$ ) and the total score is 90,000 ($\Mu = 90,000$). We also consider that the reward distribution is 60% to landowners, 30% to Natu Foundation and 10% to the natuDAO.
 
-First, we analyze the **minimum viable park**. It is composed of 3 contiguous COUNs and is the smallest admitted park on the network. After calculations, the total score for all COUNs is 0.394, resulting in a reward of 70.83 $NATU, with the average reward per COUN equal to 23.61 \$NATU. Likewise, the distribution of these new minted tokens is 36.12 \$NATU to the park owner, 34.35 \$NATU to the Natu Foundation and 0.35 $NATU to the natuDAO.
+First, we analyze the **minimum viable park**. It is composed of 3 contiguous COUNs and is the smallest admitted park on the network. After calculations, the total score for all COUNs is 0.394, resulting in a reward of 70.83 $NATU, with the average reward per COUN equal to 42.50 \$NATU. Likewise, the distribution of these new minted tokens is 36.12 \$NATU to the park owner, 21.25 \$NATU to the Natu Foundation and 7.83 $NATU to the natuDAO.
 
 ![Minimum viable park in Natu network.](/img/mvp.png)
 
