@@ -17,9 +17,11 @@ The Desert era comes after the Tundra. Here, the team will focus on the developm
 
 Now is the time to expand the Natu conservation network to more ecosystems in different countries. In the era of the Desert, our goal is to include parks outside of Chile.
 
-### Decentralized green loans
+### Natuverse
 
-In the Desert era, **our goal is to design and implement an automated lending protocol to enable decentralized green loans**. DG Loans are expected to be an instrument for ESG investments in the future.
+In the Desert era **our goal is to launch the natuverse in the NEAR mainnet**. This must include a NFT marketplace in the first cryptown, so the team will develop the functionality to make the natuverse usable.
+
+At the same time, the team will develop all the functions to make the natuverse a serious player in the market.
 
 ### Adoption strategy
 

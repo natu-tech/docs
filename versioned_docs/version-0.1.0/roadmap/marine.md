@@ -25,10 +25,14 @@ Decentralized Autonomous Organizations (DAOs) are one of the most complex smart 
 
 In the Marine era, **our goal is to design the NatuDAO and implement the smart contracts necessary for its operation**.
 
+### Natu SDK
 
-### Natuverse
+It is time to promote and integrate the first dApps in the natuverse. This is a crucial moment for the project because great usability means great adoption in the future.
 
-In the Marine era **our goal is to create the first demo of the natuverse**. The demo is expected to be simple, but users will be allowed to create their avatars and walk through the first hybrid parks. For the demo we expect to use unreal engine to have realistic renders.
+In the Marine era **our goal is to develop a software development kit (sdk) that enables developers to easily create and deploy their dApps**. 
+
+In this era the team will focus on **incorporating new features to the natuverse**. 
 
 ### Adoption strategy
+
 **We will be creating a metaverse 101 course** to teach the community how to take full advantage of the benefits of the natuverse. The course will have two versions, one for potential users and one for park owners.
